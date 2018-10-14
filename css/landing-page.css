@@ -15,6 +15,7 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #343a40;
+  opacity: 0.5;
   background: url("../img/sear-greyson-671095-unsplash.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
